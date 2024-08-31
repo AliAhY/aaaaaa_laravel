@@ -1,0 +1,4 @@
+php artisan make:model Courses -mcrr
+php artisan make:model CoursesMembers -m
+php artisan make:model CoursesDays -m
+php artisan make:model DaysMembers -m
